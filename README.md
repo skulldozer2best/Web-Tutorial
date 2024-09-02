@@ -1,2 +1,2 @@
 # Web-Tutorial
-Youtube Web sitesi
+Youtube üzerinde yaptığımız bu web sitesini ücretsiz şekilde kullanabilir kendi sitenize uygulayabilirsiniz
